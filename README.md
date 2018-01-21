@@ -7,5 +7,5 @@ ie8下placeholder无效解决，原生js<br/>
 >>window[_event](_eventadd + 'resize', function() {<br/>
 &nbsp;&nbsp;_placeholder.removediv('iEnew_placeholder');<br/>
 &nbsp;&nbsp;_placeholder.add('input').add('textarea');<br/>
-})
+})<br/>
 3.ie是真的。。。
